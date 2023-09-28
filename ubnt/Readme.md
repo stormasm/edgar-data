@@ -1,4 +1,8 @@
 
-Files are from here...
+To get these files bring up a particular filing for a company and then
 
-[edgar ubnt](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001511737)
+in the upper left corner of the document click on
+
+### Save XBRL Instance
+
+This will give you the file you want that my code is able to process...
